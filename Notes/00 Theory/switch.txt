@@ -1,0 +1,28 @@
+
+
+
+Switch
+	
+		Switch is Control Statement Used in C.
+		Variable name Given as an expression in
+		switch can be only of int or char Datatype.
+		
+		i.e. switch only supports expressions of
+		int & char datatype.
+		
+		We cant write any condition as an expression,
+		Also we can't write any Condition as value of 
+		corresponding Cases in switch.
+		
+		while writing cases for our switch we should 
+		provide value for our expression.
+		
+		If expressions datatype is int then values at case 
+		can be written without single quotes.
+		But if expressions datatype is char then values at 
+		case should be written with single quote.
+		
+		
+while
+		
+
