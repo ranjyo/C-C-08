@@ -1,0 +1,36 @@
+
+Array =>
+
+	Array is Derived Data Type in C
+
+	Collection of HomoGeneous(Similar/Same) DataType Elements,
+	Under a Single Name
+
+	Sequential Byte Of memory 
+
+	Array Indexing Starts with 0, Last Index is (ArraySize - 1)
+
+====================================================================================================
+
+Structure =>
+	
+	Structure is User Defined Datatype in C as well as C++
+
+	Collection of Non-Homogeneous(Different) DataType Elements,
+	Under a Single Name
+
+	Sequential Byte Of memory 
+
+	Sequence Of Declaration of elements in Structure
+	in that sequence memory gets allocated 
+
+	sizeof of Structure object = Summation of its all 
+			              data members (Variables) in Structure 
+
+====================================================================================================
+
+
+	We Cant Initialize Any Structure member while declaration,
+	because at the time of declaration there is No Memory Allocated 
+	for those members
+
