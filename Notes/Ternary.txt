@@ -1,0 +1,18 @@
+
+
+	Ternary Operator
+
+	Syntax =>
+	
+		(Condition) ? ( True ) : ( False );
+
+	Exa1 =>
+	
+		(No1 > No2) ? (No1 is max) : ( No2 is Max); 
+
+	Exa2 =>
+
+		(No1 == No2) ? (printf("\n EQUAL.")) : ((No1 > No2) ? printf("\n MAX = %d.",No1) : printf("\n MAX = %d.",No2));
+
+
+
